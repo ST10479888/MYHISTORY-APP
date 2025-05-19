@@ -1,5 +1,7 @@
 Imad assignment  2
+
 ST 10479888
+
 Answering True/False flashcard questions is intended to assist users in their historical studies. The application monitors the user's performance, gives immediate feedback, and concludes with a summary of the findings.
 
 
